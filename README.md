@@ -50,7 +50,7 @@ Se han aplicado y comparado tres técnicas principales:
 
 ## 📚 Referencias y Material Adicional
 
-Si necesitas acceder al documento completo del TFG (memoria, gráficos, conclusiones), puedes contactarme a través de [LindedIn](https://www.linkedin.com/in/ivan-villar-naredo/)
+Si necesitas acceder al documento completo del TFG (memoria, gráficos, conclusiones), puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/ivan-villar-naredo/)
 
 ---
 
